@@ -1,4 +1,4 @@
-# kosaksi_pasapugazh
+# kosaksi_pasapugazh_and_experiments
 1.A way of running inclusive communities in colleges.
 
 2.The idea has popped from movie 3 Idiots aka Nanban aka Snehithudu.
